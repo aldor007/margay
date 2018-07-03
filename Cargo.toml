@@ -1,0 +1,8 @@
+[package]
+name = "margay"
+version = "0.1.0"
+authors = ["Marcin Kaciuba <marcin.kaciuba@gmail.com>"]
+
+[dependencies]
+rocksdb = "0.10.0"
+fuse = "0.3"
