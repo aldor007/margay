@@ -1,0 +1,12 @@
+[package]
+name = "margay"
+version = "0.1.0"
+authors = ["Marcin Kaciuba <marcin.kaciuba@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
+libc = "~0.2.42"
+grpcio = "0.3"
+rocksdb = "0.10.0"
+fuse = "0.3"
+raft = "0.3"
